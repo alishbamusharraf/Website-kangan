@@ -1,7 +1,5 @@
 import React from 'react'
 
-
-
 const About = () => {
   return (
     <div>
@@ -12,10 +10,10 @@ const About = () => {
         <div className='about-content'>
           <h2 className='fade-in'>About Us</h2>
           <p>Kangan Jewelry, we specialize in creating timeless,
-            handcrafted  pieces that blend tradition with modern elegance.
-            Our collection,made from the finest materials,celebrates
-            life’s special moments  with exceptional craftsmanship and design.
-            Whether you're looking for a statement piece or a subtle accessory,
+            handcrafted pieces that blend tradition with modern elegance.
+            Our collection, made from the finest materials, celebrates
+            life&apos;s special moments with exceptional craftsmanship and design.
+            Whether you&apos;re looking for a statement piece or a subtle accessory,
             Kangan Jewelry offers something unique for every occasion.</p>
         </div>
       </section>
@@ -24,5 +22,3 @@ const About = () => {
 }
 
 export default About
-
-
